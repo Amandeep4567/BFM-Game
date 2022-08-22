@@ -5,7 +5,6 @@ int bearMosquitoFish(char user, char comp)
 {
     if (user == comp)
     {
-        printf("hey");
         return 0;
     }
 
